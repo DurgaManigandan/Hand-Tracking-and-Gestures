@@ -1,28 +1,32 @@
 # Hand Tracking and Gestures
 
-This project was developed as part of an AI Workshop to explore real-time hand tracking and gesture recognition using computer vision.
+> Developed during a 3-Day AI Workshop conducted by Neural GenAI Tech using AI-assisted development for learning and exploration.
 
 ## Overview
 
-The application detects hand landmarks through a webcam using MediaPipe and OpenCV, enabling real-time hand tracking and basic gesture recognition.
+This project demonstrates real-time hand tracking and gesture recognition using a webcam. It was completed as part of an AI workshop to understand the basics of computer vision and gesture recognition.
 
-## Technologies Used
+## Features
 
-- Python
-- OpenCV
-- MediaPipe
+- Real-time hand tracking
+- Gesture recognition
+- Webcam-based interaction
+- AI-assisted implementation
 
 ## Learning Outcomes
 
-- Understood the basics of computer vision
-- Explored MediaPipe hand landmark detection
-- Learned real-time webcam processing
-- Gained hands-on exposure to AI-based applications
-
-## Workshop
-
-Developed during the **3-Day AI Workshop conducted by Neural GenAI Tech**.
+- Learned the basics of hand tracking
+- Understood gesture recognition concepts
+- Explored AI-assisted application development
+- Gained practical exposure to computer vision
 
 ## Note
 
-This project was completed as part of a guided workshop for learning purposes.
+This project was completed during a guided AI workshop for educational and learning purposes.
+
+## Author
+
+**Durga M**
+## Live Demo
+
+🔗 
