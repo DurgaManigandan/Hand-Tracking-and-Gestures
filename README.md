@@ -29,4 +29,4 @@ This project was completed during a guided AI workshop for educational and learn
 **Durga M**
 ## Live Demo
 
-🔗 
+🔗 https://durgamanigandan.github.io/Hand-Tracking-and-Gestures/
